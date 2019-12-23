@@ -1,0 +1,11 @@
+C:\Users\alieneware\source\repos\IntegerDataType\IntegerDataType\bin\Debug\netcoreapp3.1\IntegerDataType.exe
+C:\Users\alieneware\source\repos\IntegerDataType\IntegerDataType\bin\Debug\netcoreapp3.1\IntegerDataType.deps.json
+C:\Users\alieneware\source\repos\IntegerDataType\IntegerDataType\bin\Debug\netcoreapp3.1\IntegerDataType.runtimeconfig.json
+C:\Users\alieneware\source\repos\IntegerDataType\IntegerDataType\bin\Debug\netcoreapp3.1\IntegerDataType.runtimeconfig.dev.json
+C:\Users\alieneware\source\repos\IntegerDataType\IntegerDataType\bin\Debug\netcoreapp3.1\IntegerDataType.dll
+C:\Users\alieneware\source\repos\IntegerDataType\IntegerDataType\bin\Debug\netcoreapp3.1\IntegerDataType.pdb
+C:\Users\alieneware\source\repos\IntegerDataType\IntegerDataType\obj\Debug\netcoreapp3.1\IntegerDataType.csprojAssemblyReference.cache
+C:\Users\alieneware\source\repos\IntegerDataType\IntegerDataType\obj\Debug\netcoreapp3.1\IntegerDataType.AssemblyInfoInputs.cache
+C:\Users\alieneware\source\repos\IntegerDataType\IntegerDataType\obj\Debug\netcoreapp3.1\IntegerDataType.AssemblyInfo.cs
+C:\Users\alieneware\source\repos\IntegerDataType\IntegerDataType\obj\Debug\netcoreapp3.1\IntegerDataType.dll
+C:\Users\alieneware\source\repos\IntegerDataType\IntegerDataType\obj\Debug\netcoreapp3.1\IntegerDataType.pdb

@@ -1,0 +1,11 @@
+C:\Users\alieneware\source\repos\Exercise6\Exercise6\bin\Debug\netcoreapp3.1\Exercise6.exe
+C:\Users\alieneware\source\repos\Exercise6\Exercise6\bin\Debug\netcoreapp3.1\Exercise6.deps.json
+C:\Users\alieneware\source\repos\Exercise6\Exercise6\bin\Debug\netcoreapp3.1\Exercise6.runtimeconfig.json
+C:\Users\alieneware\source\repos\Exercise6\Exercise6\bin\Debug\netcoreapp3.1\Exercise6.runtimeconfig.dev.json
+C:\Users\alieneware\source\repos\Exercise6\Exercise6\bin\Debug\netcoreapp3.1\Exercise6.dll
+C:\Users\alieneware\source\repos\Exercise6\Exercise6\bin\Debug\netcoreapp3.1\Exercise6.pdb
+C:\Users\alieneware\source\repos\Exercise6\Exercise6\obj\Debug\netcoreapp3.1\Exercise6.csprojAssemblyReference.cache
+C:\Users\alieneware\source\repos\Exercise6\Exercise6\obj\Debug\netcoreapp3.1\Exercise6.AssemblyInfoInputs.cache
+C:\Users\alieneware\source\repos\Exercise6\Exercise6\obj\Debug\netcoreapp3.1\Exercise6.AssemblyInfo.cs
+C:\Users\alieneware\source\repos\Exercise6\Exercise6\obj\Debug\netcoreapp3.1\Exercise6.dll
+C:\Users\alieneware\source\repos\Exercise6\Exercise6\obj\Debug\netcoreapp3.1\Exercise6.pdb
