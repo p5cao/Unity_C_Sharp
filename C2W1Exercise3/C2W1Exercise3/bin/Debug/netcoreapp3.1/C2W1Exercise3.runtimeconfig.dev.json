@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\dronelab\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\dronelab\\.nuget\\packages"
+    ]
+  }
+}

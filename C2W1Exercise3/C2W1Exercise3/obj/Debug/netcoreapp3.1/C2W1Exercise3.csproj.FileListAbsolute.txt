@@ -1,0 +1,11 @@
+C:\Users\dronelab\source\repos\Exercise3\C2W1Exercise3\bin\Debug\netcoreapp3.1\C2W1Exercise3.exe
+C:\Users\dronelab\source\repos\Exercise3\C2W1Exercise3\bin\Debug\netcoreapp3.1\C2W1Exercise3.deps.json
+C:\Users\dronelab\source\repos\Exercise3\C2W1Exercise3\bin\Debug\netcoreapp3.1\C2W1Exercise3.runtimeconfig.json
+C:\Users\dronelab\source\repos\Exercise3\C2W1Exercise3\bin\Debug\netcoreapp3.1\C2W1Exercise3.runtimeconfig.dev.json
+C:\Users\dronelab\source\repos\Exercise3\C2W1Exercise3\bin\Debug\netcoreapp3.1\C2W1Exercise3.dll
+C:\Users\dronelab\source\repos\Exercise3\C2W1Exercise3\bin\Debug\netcoreapp3.1\C2W1Exercise3.pdb
+C:\Users\dronelab\source\repos\Exercise3\C2W1Exercise3\obj\Debug\netcoreapp3.1\C2W1Exercise3.csprojAssemblyReference.cache
+C:\Users\dronelab\source\repos\Exercise3\C2W1Exercise3\obj\Debug\netcoreapp3.1\C2W1Exercise3.AssemblyInfoInputs.cache
+C:\Users\dronelab\source\repos\Exercise3\C2W1Exercise3\obj\Debug\netcoreapp3.1\C2W1Exercise3.AssemblyInfo.cs
+C:\Users\dronelab\source\repos\Exercise3\C2W1Exercise3\obj\Debug\netcoreapp3.1\C2W1Exercise3.dll
+C:\Users\dronelab\source\repos\Exercise3\C2W1Exercise3\obj\Debug\netcoreapp3.1\C2W1Exercise3.pdb
