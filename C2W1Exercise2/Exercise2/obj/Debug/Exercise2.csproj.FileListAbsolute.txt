@@ -1,0 +1,15 @@
+c:\users\albert\documents\visual studio 2017\Projects\Exercise2\Exercise2\obj\Debug\Exercise2.csprojResolveAssemblyReference.cache
+c:\users\albert\documents\visual studio 2017\Projects\Exercise2\Exercise2\bin\Debug\Exercise2.exe.config
+c:\users\albert\documents\visual studio 2017\Projects\Exercise2\Exercise2\bin\Debug\Exercise2.exe
+c:\users\albert\documents\visual studio 2017\Projects\Exercise2\Exercise2\bin\Debug\Exercise2.pdb
+c:\users\albert\documents\visual studio 2017\Projects\Exercise2\Exercise2\bin\Debug\ConsoleCards.dll
+c:\users\albert\documents\visual studio 2017\Projects\Exercise2\Exercise2\obj\Debug\Exercise2.exe
+c:\users\albert\documents\visual studio 2017\Projects\Exercise2\Exercise2\obj\Debug\Exercise2.pdb
+C:\Users\dronelab\Documents\GitHub\Unity_C_Sharp\C2W1Exercise2\Exercise2\obj\Debug\Exercise2.csprojAssemblyReference.cache
+C:\Users\dronelab\Documents\GitHub\Unity_C_Sharp\C2W1Exercise2\Exercise2\obj\Debug\Exercise2.exe
+C:\Users\dronelab\Documents\GitHub\Unity_C_Sharp\C2W1Exercise2\Exercise2\obj\Debug\Exercise2.pdb
+C:\Users\dronelab\Documents\GitHub\Unity_C_Sharp\C2W1Exercise2\Exercise2\bin\Debug\Exercise2.exe.config
+C:\Users\dronelab\Documents\GitHub\Unity_C_Sharp\C2W1Exercise2\Exercise2\bin\Debug\Exercise2.exe
+C:\Users\dronelab\Documents\GitHub\Unity_C_Sharp\C2W1Exercise2\Exercise2\bin\Debug\Exercise2.pdb
+C:\Users\dronelab\Documents\GitHub\Unity_C_Sharp\C2W1Exercise2\Exercise2\bin\Debug\ConsoleCards.dll
+C:\Users\dronelab\Documents\GitHub\Unity_C_Sharp\C2W1Exercise2\Exercise2\obj\Debug\Exercise2.csproj.CopyComplete
