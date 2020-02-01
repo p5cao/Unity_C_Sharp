@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alieneware\\source\\repos\\Exercise3\\Exercise3\\Exercise3.csproj",
+      "projectUniqueName": "C:\\Users\\alieneware\\source\\repos\\Unity_C_Sharp\\Exercise3\\Exercise3\\Exercise3.csproj",
       "projectName": "Exercise3",
-      "projectPath": "C:\\Users\\alieneware\\source\\repos\\Exercise3\\Exercise3\\Exercise3.csproj",
+      "projectPath": "C:\\Users\\alieneware\\source\\repos\\Unity_C_Sharp\\Exercise3\\Exercise3\\Exercise3.csproj",
       "packagesPath": "C:\\Users\\alieneware\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alieneware\\source\\repos\\Exercise3\\Exercise3\\obj\\",
+      "outputPath": "C:\\Users\\alieneware\\source\\repos\\Unity_C_Sharp\\Exercise3\\Exercise3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alieneware\\AppData\\Roaming\\NuGet\\NuGet.Config",

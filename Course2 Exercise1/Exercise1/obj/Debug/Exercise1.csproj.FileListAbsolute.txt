@@ -1,0 +1,15 @@
+c:\users\albert\documents\visual studio 2017\Projects\Exercise1\Exercise1\bin\Debug\Exercise1.exe.config
+c:\users\albert\documents\visual studio 2017\Projects\Exercise1\Exercise1\bin\Debug\Exercise1.exe
+c:\users\albert\documents\visual studio 2017\Projects\Exercise1\Exercise1\bin\Debug\Exercise1.pdb
+c:\users\albert\documents\visual studio 2017\Projects\Exercise1\Exercise1\obj\Debug\Exercise1.csprojResolveAssemblyReference.cache
+c:\users\albert\documents\visual studio 2017\Projects\Exercise1\Exercise1\obj\Debug\Exercise1.exe
+c:\users\albert\documents\visual studio 2017\Projects\Exercise1\Exercise1\obj\Debug\Exercise1.pdb
+c:\users\albert\documents\visual studio 2017\Projects\Exercise1\Exercise1\bin\Debug\ConsoleCards.dll
+C:\Users\alieneware\source\repos\Unity_C_Sharp\Course2 Exercise1\Exercise1\bin\Debug\Exercise1.exe.config
+C:\Users\alieneware\source\repos\Unity_C_Sharp\Course2 Exercise1\Exercise1\bin\Debug\Exercise1.exe
+C:\Users\alieneware\source\repos\Unity_C_Sharp\Course2 Exercise1\Exercise1\bin\Debug\Exercise1.pdb
+C:\Users\alieneware\source\repos\Unity_C_Sharp\Course2 Exercise1\Exercise1\bin\Debug\ConsoleCards.dll
+C:\Users\alieneware\source\repos\Unity_C_Sharp\Course2 Exercise1\Exercise1\obj\Debug\Exercise1.csprojAssemblyReference.cache
+C:\Users\alieneware\source\repos\Unity_C_Sharp\Course2 Exercise1\Exercise1\obj\Debug\Exercise1.csproj.CopyComplete
+C:\Users\alieneware\source\repos\Unity_C_Sharp\Course2 Exercise1\Exercise1\obj\Debug\Exercise1.exe
+C:\Users\alieneware\source\repos\Unity_C_Sharp\Course2 Exercise1\Exercise1\obj\Debug\Exercise1.pdb

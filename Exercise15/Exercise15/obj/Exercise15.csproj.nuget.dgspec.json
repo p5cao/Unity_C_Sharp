@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alieneware\\source\\repos\\Exercise15\\Exercise15\\Exercise15.csproj": {}
+    "C:\\Users\\alieneware\\source\\repos\\Unity_C_Sharp\\Exercise15\\Exercise15\\Exercise15.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alieneware\\source\\repos\\Exercise15\\Exercise15\\Exercise15.csproj": {
+    "C:\\Users\\alieneware\\source\\repos\\Unity_C_Sharp\\Exercise15\\Exercise15\\Exercise15.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alieneware\\source\\repos\\Exercise15\\Exercise15\\Exercise15.csproj",
+        "projectUniqueName": "C:\\Users\\alieneware\\source\\repos\\Unity_C_Sharp\\Exercise15\\Exercise15\\Exercise15.csproj",
         "projectName": "Exercise15",
-        "projectPath": "C:\\Users\\alieneware\\source\\repos\\Exercise15\\Exercise15\\Exercise15.csproj",
+        "projectPath": "C:\\Users\\alieneware\\source\\repos\\Unity_C_Sharp\\Exercise15\\Exercise15\\Exercise15.csproj",
         "packagesPath": "C:\\Users\\alieneware\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alieneware\\source\\repos\\Exercise15\\Exercise15\\obj\\",
+        "outputPath": "C:\\Users\\alieneware\\source\\repos\\Unity_C_Sharp\\Exercise15\\Exercise15\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alieneware\\AppData\\Roaming\\NuGet\\NuGet.Config",
